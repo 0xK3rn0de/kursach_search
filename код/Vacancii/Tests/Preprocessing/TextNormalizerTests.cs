@@ -1,7 +1,7 @@
 ﻿using Core.Preprocessing;
 using FluentAssertions;
 
-namespace Tests.Preprocessing;
+namespace Tests;
 
 public class TextNormalizerTests
 {
